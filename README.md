@@ -5,5 +5,5 @@ This repository contains a collection of meticulously designed dashboards aimed 
 
 Live Dashboard link - Click Here
 
-##Technologies and Techniques Used in Business Intelligence Dashboard:
+## Technologies and Techniques Used in Business Intelligence Dashboard:
 This repository leverages a suite of technologies and advanced techniques to build powerful and interactive Business Intelligence dashboards.
