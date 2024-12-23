@@ -12,7 +12,7 @@ This repository leverages a suite of technologies and advanced techniques to bui
 
 ## Power BI:
 
-**Interactive data visualization and reporting platform.:**
+- **Interactive data visualization and reporting platform**
 Excel
 For initial data preprocessing and exploratory analysis.
 SQL
