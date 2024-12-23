@@ -44,7 +44,7 @@ This repository leverages a suite of technologies and advanced techniques to bui
 - Cleaning and preparing raw data for analysis.
 - Addressing missing or inconsistent data using Power Query Editor.
 - Applying advanced transformations to ensure data readiness.
-- 
+ 
 **3. Data Modeling:**
 - Establishing relationships between tables to enable seamless analysis.
 - Designing star and snowflake schemas for optimized performance.
