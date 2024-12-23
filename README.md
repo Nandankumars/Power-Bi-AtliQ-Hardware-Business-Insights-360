@@ -36,7 +36,7 @@ This repository leverages a suite of technologies and advanced techniques to bui
 
 ## Power BI Techniques Learned:
 
-**1.** Data Importing and Integration
+**1.** **Data Importing and Integration**
 - **Connecting to diverse data sources (Excel, SQL databases, APIs, etc.).**
 Merging and appending data from multiple sources to create unified datasets.
 2. Data Transformation with Power Query
