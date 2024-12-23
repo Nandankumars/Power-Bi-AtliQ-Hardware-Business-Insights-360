@@ -12,34 +12,35 @@ This repository leverages a suite of technologies and advanced techniques to bui
 
 ### Power BI:
 
-- **Interactive data visualization and reporting platform.**
+- Interactive data visualization and reporting platform.
 
 ### Excel:
 
-- **For initial data preprocessing and exploratory analysis.**
+- For initial data preprocessing and exploratory analysis.
   
 ### SQL:
 
-- **Data extraction, querying, and manipulation from relational databases.**
+- Data extraction, querying, and manipulation from relational databases.
   
 ### DAX (Data Analysis Expressions):
 
-- **Advanced calculations and custom measures in Power BI.**
+- Advanced calculations and custom measures in Power BI.
 
 ### Power Query:
 
-- **ETL (Extract, Transform, Load) tool for data transformation and shaping.**
+- ETL (Extract, Transform, Load) tool for data transformation and shaping.
 
 ### Database= MySQL:
 
-- **Back-end database for data storage and querying.**
+- Back-end database for data storage and querying.
 
 ## Power BI Techniques Learned:
 
-**1.** **Data Importing and Integration**
-- **Connecting to diverse data sources (Excel, SQL databases, APIs, etc.).
-Merging and appending data from multiple sources to create unified datasets.
-2. Data Transformation with Power Query
+**1. Data Importing and Integration:**
+- Connecting to diverse data sources (Excel, SQL databases, APIs, etc.).
+- Merging and appending data from multiple sources to create unified datasets.
+  
+**2. Data Transformation with Power Query:**
 Cleaning and preparing raw data for analysis.
 Addressing missing or inconsistent data using Power Query Editor.
 Applying advanced transformations to ensure data readiness.
