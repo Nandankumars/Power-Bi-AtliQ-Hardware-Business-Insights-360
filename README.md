@@ -7,6 +7,7 @@ Live Dashboard link - [Click Here](https://app.powerbi.com/view?r=eyJrIjoiOWM2YW
 
 ## Technologies and Techniques Used in Business Intelligence Dashboard:
 This repository leverages a suite of technologies and advanced techniques to build powerful and interactive Business Intelligence dashboards.
+![Finance view](https://github.com/user-attachments/assets/bb5963b2-c652-409c-8719-6c63d7791321)
 
 ## Technologies Used:
 
