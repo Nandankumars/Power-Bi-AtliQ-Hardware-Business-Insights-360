@@ -62,6 +62,12 @@ The third step—Data Modeling—is indispensable if you want to reach the final
 In this project, we adopted the Snowflake schema for data modeling, ensuring a scalable and optimized foundation for building meaningful visualizations and reports.
 ![Data modelling](https://github.com/user-attachments/assets/b653affc-8d61-4752-aecc-9c0d30f8beab)
 
+## Power BI Dashboard Overview:
+The dashboard comprises six pages
+
+**Home Page:** A landing page with buttons to navigate to different pages.
+![Home](https://github.com/user-attachments/assets/f911b8b6-b381-4e34-bd45-47413d07c0f8)
+
 ## Technologies and Techniques Used in Business Intelligence Dashboard:
 This repository leverages a suite of technologies and advanced techniques to build powerful and interactive Business Intelligence dashboards.
 
