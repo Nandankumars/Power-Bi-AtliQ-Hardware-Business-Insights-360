@@ -60,12 +60,14 @@ If we break down the work of a data analyst, it typically involves four key step
 The third step—Data Modeling—is indispensable if you want to reach the final step, Data Analysis. It serves as the backbone of any analytical report. A well-designed data model not only ensures accurate and efficient analysis but also enhances report performance and interactivity. Poor modeling, on the other hand, can lead to sluggish reports and unreliable insights.
 
 In this project, we adopted the Snowflake schema for data modeling, ensuring a scalable and optimized foundation for building meaningful visualizations and reports.
+
 ![Data modelling](https://github.com/user-attachments/assets/b653affc-8d61-4752-aecc-9c0d30f8beab)
 
 ## Power BI Dashboard Overview:
 The dashboard comprises six pages
 
 **Home Page:** A landing page with buttons to navigate to different pages.
+
 ![Home](https://github.com/user-attachments/assets/f911b8b6-b381-4e34-bd45-47413d07c0f8)
 
 **Finance Page Overview:** This page is designed to enhance financial planning, optimize budgeting processes, and implement effective cost control measures. Key insights provided include:
@@ -75,7 +77,18 @@ The dashboard comprises six pages
 - **Top and Bottom Customers by Net Sales:** Highlight key customer segments driving revenue and those requiring strategic attention.
   
 By focusing on these metrics, the Finance Page ensures stakeholders can make informed financial decisions to drive business growth.
+
 ![Finance view](https://github.com/user-attachments/assets/403fba21-a6fb-4e8b-8e49-9ef7e37b5c71)
+
+**Sales Page Overview:** The Sales Page is designed to drive revenue growth and expand market share by providing actionable insights. Key features include:
+
+- **Customer Performance by Net Sales:** Analyze customer contributions to overall sales.
+- **Gross Margin and Gross Margin %:** Evaluate profitability and efficiency across products or services.
+- **Additional Sales Metrics:** Dive deeper into trends and patterns to uncover opportunities for growth.
+  
+**This page empowers decision**-makers with the insights needed to refine strategies, enhance customer engagement, and maximize profitability.
+
+![Sales view](https://github.com/user-attachments/assets/43676863-a9e7-4233-b010-30709b1c11be)
 
 ## Technologies and Techniques Used in Business Intelligence Dashboard:
 This repository leverages a suite of technologies and advanced techniques to build powerful and interactive Business Intelligence dashboards.
