@@ -7,11 +7,11 @@
 
 **3.** Power BI Dashboard Overview
 
-**4.** Power BI Techniques Learned
+**4.** Tools Used
 
-**5.** Tools Used
+**5.** Power BI Techniques Learned
 
-**6.** Business Terms Learned
+**6.** Key Financial and Business Terms Learned
 
 ## Project Overview:
 
@@ -115,16 +115,12 @@ This page empowers decision-makers with the data needed to enhance supply chain 
 - **Gross Margin % and Net Profit %:** Key profitability metrics to assess financial health.
 - **Revenue Contribution by Channel:** Analyze performance across Retail, Direct Sales, and Distributors.
 - **Top 5 Customers and Products:** Identify key revenue drivers.
-- **Sub-Region Performance:** Evaluate geographical performance for targeted strategies.
 
 This page consolidates critical metrics into a high-level dashboard, ensuring executives stay informed and aligned with organizational goals.
 
 ![Executive view](https://github.com/user-attachments/assets/c82a4014-b39f-4345-8dde-1243d88618a5)
 
-## Technologies and Techniques Used in Business Intelligence Dashboard:
-This repository leverages a suite of technologies and advanced techniques to build powerful and interactive Business Intelligence dashboards.
-
-## Technologies Used:
+## Tools Used:
 
 ### Power BI:
 
@@ -189,9 +185,9 @@ This repository leverages a suite of technologies and advanced techniques to bui
 - Scheduling automatic data refreshes to ensure up-to-date insights.
 - Sharing dashboards securely with stakeholders.
 
-## Key Financial and Business Terms:
+## Key Financial and Business Terms Learned:
 
-### Financial Metrics:
+### Financial Terms:
 - **Gross Price:** Total price of goods or services before any deductions.
 - **Pre-Invoice Deductions:** Discounts or allowances applied before invoice generation.
 - **Post-Invoice Deductions:** Adjustments or deductions made after the invoice is issued.
