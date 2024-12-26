@@ -25,6 +25,38 @@ I contributed to this transformative project by applying skills gained from the 
 
 Live Dashboard link - [Click Here](https://app.powerbi.com/view?r=eyJrIjoiOWM2YWQyMjYtYzcxMS00ZDFlLThkOTgtZTk0Njc2MzQyNDYxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
+## Datasets:
+Before diving into analysis, understanding the datasets is crucial. The datasets consist of two tables:
+
+**Dimension table**: Static data like customer and product details.
+
+**Fact table**: Transaction data.
+
+gdb041:
+
+dim_customer
+dim_market
+dim_product
+fact_forecast_monthly - This table is used to forecast the customer’s need in advance, which can help in Higher customer satisfaction and reduced cost in warehouses for storage purposes
+fact_sales_monthly - This table is more or less is same as the fact_forecast_monthly table, but the last column has the value of the sold quantity instead of the forecast value.
+gdb056:
+
+freight_cost
+gross_price
+manufacturing_cost
+Pre_invoice_dedutions
+Post_invoice_deductions
+The Importance of Data Modeling in Analytics
+For this project, data was imported from MySQL into Power BI, where it was cleaned, transformed, and structured into a robust data model. But why is data modeling so critical for analysis?
+
+If we break down the work of a data analyst, it typically involves four key steps:
+
+✅ Data Extraction → ✅ Data Cleaning → ✅ Data Modeling → ✅ Data Analysis
+
+The third step—Data Modeling—is indispensable if you want to reach the final step, Data Analysis. It serves as the backbone of any analytical report. A well-designed data model not only ensures accurate and efficient analysis but also enhances report performance and interactivity. Poor modeling, on the other hand, can lead to sluggish reports and unreliable insights.
+
+In this project, we adopted the Snowflake schema for data modeling, ensuring a scalable and optimized foundation for building meaningful visualizations and reports.
+
 ## Technologies and Techniques Used in Business Intelligence Dashboard:
 This repository leverages a suite of technologies and advanced techniques to build powerful and interactive Business Intelligence dashboards.
 
