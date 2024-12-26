@@ -68,6 +68,15 @@ The dashboard comprises six pages
 **Home Page:** A landing page with buttons to navigate to different pages.
 ![Home](https://github.com/user-attachments/assets/f911b8b6-b381-4e34-bd45-47413d07c0f8)
 
+**Finance Page Overview:** This page is designed to enhance financial planning, optimize budgeting processes, and implement effective cost control measures. Key insights provided include:
+
+- **Profit and Loss Statements:** A comprehensive view of financial performance.
+- **Top and Bottom Products by Net Sales:** Identify the most and least profitable products.
+- **Top and Bottom Customers by Net Sales:** Highlight key customer segments driving revenue and those requiring strategic attention.
+  
+By focusing on these metrics, the Finance Page ensures stakeholders can make informed financial decisions to drive business growth.
+![Finance view](https://github.com/user-attachments/assets/403fba21-a6fb-4e8b-8e49-9ef7e37b5c71)
+
 ## Technologies and Techniques Used in Business Intelligence Dashboard:
 This repository leverages a suite of technologies and advanced techniques to build powerful and interactive Business Intelligence dashboards.
 
