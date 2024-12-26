@@ -109,6 +109,18 @@ This page empowers decision-makers with the data needed to enhance supply chain 
 
 ![Supply chain view](https://github.com/user-attachments/assets/8ee6e984-57c6-4dc9-9a51-c15dabcd9f70)
 
+**Executive Page Overview:** The Executive Page offers a comprehensive performance overview tailored for top management, enabling quick and informed decision-making. Key highlights include:
+
+- **Net Sales:** A snapshot of overall revenue performance.
+- **Gross Margin % and Net Profit %:** Key profitability metrics to assess financial health.
+- **Revenue Contribution by Channel:** Analyze performance across Retail, Direct Sales, and Distributors.
+- **Top 5 Customers and Products:** Identify key revenue drivers.
+- **Sub-Region Performance:** Evaluate geographical performance for targeted strategies.
+
+This page consolidates critical metrics into a high-level dashboard, ensuring executives stay informed and aligned with organizational goals.
+
+![Executive view](https://github.com/user-attachments/assets/c82a4014-b39f-4345-8dde-1243d88618a5)
+
 ## Technologies and Techniques Used in Business Intelligence Dashboard:
 This repository leverages a suite of technologies and advanced techniques to build powerful and interactive Business Intelligence dashboards.
 
