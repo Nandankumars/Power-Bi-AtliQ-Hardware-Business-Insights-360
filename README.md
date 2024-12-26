@@ -28,26 +28,30 @@ Live Dashboard link - [Click Here](https://app.powerbi.com/view?r=eyJrIjoiOWM2YW
 ## Datasets:
 Before diving into analysis, understanding the datasets is crucial. The datasets consist of two tables:
 
-**Dimension table**: Static data like customer and product details.
+**Dimension table:** Static data like customer and product details.
 
-**Fact table**: Transaction data.
+**Fact table:** Transaction data.
 
-gdb041:
+**gdb041:**
 
-dim_customer
-dim_market
-dim_product
-fact_forecast_monthly - This table is used to forecast the customer’s need in advance, which can help in Higher customer satisfaction and reduced cost in warehouses for storage purposes
-fact_sales_monthly - This table is more or less is same as the fact_forecast_monthly table, but the last column has the value of the sold quantity instead of the forecast value.
-gdb056:
+- **dim_customer**
+- **dim_market**
+- **dim_product**
+- **fact_forecast_monthly** - This table is used to forecast the customer’s need in advance, which can help in Higher customer satisfaction and reduced cost in warehouses for storage purposes
+- **fact_sales_monthly** - This table is more or less is same as the fact_forecast_monthly table, but the last column has the value of the sold quantity instead of the forecast value.
 
-freight_cost
-gross_price
-manufacturing_cost
-Pre_invoice_dedutions
-Post_invoice_deductions
-The Importance of Data Modeling in Analytics
-For this project, data was imported from MySQL into Power BI, where it was cleaned, transformed, and structured into a robust data model. But why is data modeling so critical for analysis?
+**gdb056:**
+
+- **freight_cost**
+- **gross_price**
+- **manufacturing_cost**
+- **Pre_invoice_dedutions**
+- **Post_invoice_deductions**
+  
+### The Importance of Data Modeling in Analytics
+
+For this project, data was imported from MySQL into Power BI, where it was cleaned, transformed, and structured into a robust data model. 
+But why is data modeling so critical for analysis?
 
 If we break down the work of a data analyst, it typically involves four key steps:
 
