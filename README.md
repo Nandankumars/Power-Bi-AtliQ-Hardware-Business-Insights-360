@@ -1,7 +1,8 @@
 # AtliQ Hardware Business Insights 360:
 ## Table of Contents:
 
-**1.** Project Overview
+**1.** Project Overview 
+
 **2.** Datasets
 **3.**Power BI Dashboard Overview
 **4.**Power BI Techniques Learned
