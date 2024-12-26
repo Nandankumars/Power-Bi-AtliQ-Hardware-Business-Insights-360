@@ -66,7 +66,7 @@ In this project, we adopted the Snowflake schema for data modeling, ensuring a s
 ## Power BI Dashboard Overview:
 The dashboard comprises six pages
 
-### Home Page: A landing page with buttons to navigate to different pages.
+**Home Page:** A landing page with buttons to navigate to different pages.
 
 ![Home](https://github.com/user-attachments/assets/f911b8b6-b381-4e34-bd45-47413d07c0f8)
 
@@ -90,11 +90,16 @@ This page empowers decision-makers with the insights needed to refine strategies
 
 ![Sales view](https://github.com/user-attachments/assets/43676863-a9e7-4233-b010-30709b1c11be)
 
-Marketing Page Overview: The Marketing Page focuses on enhancing brand visibility and fostering customer engagement through data-driven insights. Key features include:
-Segment Performance by Gross Margin %: Assess the profitability of different market segments.
-Segment Performance by Net Profit %: Evaluate the net profitability across customer or product categories.
-Additional Marketing Metrics: Uncover trends and opportunities to refine marketing strategies.
+**Marketing Page Overview:** The Marketing Page focuses on enhancing brand visibility and fostering customer engagement through data-driven insights. Key features include:
+
+- **Segment Performance by Gross Margin %:** Assess the profitability of different market segments.
+- **Segment Performance by Net Profit %:** Evaluate the net profitability across customer or product categories.
+- **Additional Marketing Metrics:** Uncover trends and opportunities to refine marketing strategies.
+  
 This page equips stakeholders with the tools to identify high-performing segments, optimize campaigns, and boost overall marketing effectiveness.
+
+![Marketing view](https://github.com/user-attachments/assets/4084473a-822b-4cb1-8ab1-87739d9a1db8)
+
 ## Technologies and Techniques Used in Business Intelligence Dashboard:
 This repository leverages a suite of technologies and advanced techniques to build powerful and interactive Business Intelligence dashboards.
 
