@@ -94,11 +94,20 @@ This page empowers decision-makers with the insights needed to refine strategies
 
 - **Segment Performance by Gross Margin %:** Assess the profitability of different market segments.
 - **Segment Performance by Net Profit %:** Evaluate the net profitability across customer or product categories.
-- **Additional Marketing Metrics:** Uncover trends and opportunities to refine marketing strategies.
   
-This page equips stakeholders with the tools to identify high-performing segments, optimize campaigns, and boost overall marketing effectiveness.
+This page equips stakeholders with the tools to identify high-performing segments and boost overall marketing effectiveness.
 
 ![Marketing view](https://github.com/user-attachments/assets/4084473a-822b-4cb1-8ab1-87739d9a1db8)
+
+**Supply Chain Page Overview:** The Supply Chain Page is designed to optimize inventory management and strengthen supplier relationships to achieve significant cost savings. Key insights include:
+
+- **Forecast Accuracy:** Measure the precision of demand forecasting to reduce overstock and stockouts.
+- **Net Error:** Analyze discrepancies between forecasted and actual demand.
+- **Additional Supply Chain Metrics:** Identify opportunities to streamline operations and improve efficiency.
+  
+This page empowers decision-makers with the data needed to enhance supply chain performance, minimize waste, and maximize cost-effectiveness.
+
+![Supply chain view](https://github.com/user-attachments/assets/8ee6e984-57c6-4dc9-9a51-c15dabcd9f70)
 
 ## Technologies and Techniques Used in Business Intelligence Dashboard:
 This repository leverages a suite of technologies and advanced techniques to build powerful and interactive Business Intelligence dashboards.
