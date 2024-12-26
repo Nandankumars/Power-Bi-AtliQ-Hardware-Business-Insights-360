@@ -84,9 +84,9 @@ By focusing on these metrics, the Finance Page ensures stakeholders can make inf
 
 - **Customer Performance by Net Sales:** Analyze customer contributions to overall sales.
 - **Gross Margin and Gross Margin %:** Evaluate profitability and efficiency across products or services.
-- **Additional Sales Metrics:** Dive deeper into trends and patterns to uncover opportunities for growth.
+- **Additional Sales Matrix:** Dive deeper into trends and patterns to uncover opportunities for growth.
   
-**This page empowers decision**-makers with the insights needed to refine strategies, enhance customer engagement, and maximize profitability.
+This page empowers decision-makers with the insights needed to refine strategies, enhance customer engagement, and maximize profitability.
 
 ![Sales view](https://github.com/user-attachments/assets/43676863-a9e7-4233-b010-30709b1c11be)
 
