@@ -7,7 +7,7 @@
 
 **3.** [Power BI Dashboard Overview](https://github.com/Nandankumars/Power-Bi-AtliQ-Hardware-Business-Insights-360/blob/main/README.md#power-bi-dashboard-overview)
 
-**4.** Tools Used
+**4.** [Tools Used](https://github.com/Nandankumars/Power-Bi-AtliQ-Hardware-Business-Insights-360/blob/main/README.md#tools-used)
 
 **5.** Power BI Techniques Learned
 
