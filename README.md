@@ -12,7 +12,7 @@
 **5.** [Power BI Techniques Learned](
 https://github.com/Nandankumars/Power-Bi-AtliQ-Hardware-Business-Insights-360/blob/main/README.md#power-bi-techniques-learned)
 
-**6.** Key Financial and Business Terms Learned
+**6.** [Key Financial and Business Terms Learned](https://github.com/Nandankumars/Power-Bi-AtliQ-Hardware-Business-Insights-360/blob/main/README.md#key-financial-and-business-terms-learned)
 
 ## Project Overview:
 
