@@ -1,7 +1,7 @@
 # AtliQ Hardware Business Insights 360:
 ## Table of Contents:
 
-**1.** Project Overview 
+**1.** Project Overview(https://github.com/Nandankumars/Power-Bi-AtliQ-Hardware-Business-Insights-360/blob/main/README.md#project-overview) 
 
 **2.** Datasets
 
