@@ -3,7 +3,7 @@
 
 **1.** [Project Overview](https://github.com/Nandankumars/Power-Bi-AtliQ-Hardware-Business-Insights-360/blob/main/README.md#project-overview) 
 
-**2.** Datasets
+**2.** [Datasets](https://github.com/Nandankumars/Power-Bi-AtliQ-Hardware-Business-Insights-360/blob/main/README.md#datasets)
 
 **3.** Power BI Dashboard Overview
 
