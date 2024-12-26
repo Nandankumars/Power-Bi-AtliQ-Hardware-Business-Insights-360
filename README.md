@@ -60,6 +60,7 @@ If we break down the work of a data analyst, it typically involves four key step
 The third step—Data Modeling—is indispensable if you want to reach the final step, Data Analysis. It serves as the backbone of any analytical report. A well-designed data model not only ensures accurate and efficient analysis but also enhances report performance and interactivity. Poor modeling, on the other hand, can lead to sluggish reports and unreliable insights.
 
 In this project, we adopted the Snowflake schema for data modeling, ensuring a scalable and optimized foundation for building meaningful visualizations and reports.
+![Data modelling](https://github.com/user-attachments/assets/b653affc-8d61-4752-aecc-9c0d30f8beab)
 
 ## Technologies and Techniques Used in Business Intelligence Dashboard:
 This repository leverages a suite of technologies and advanced techniques to build powerful and interactive Business Intelligence dashboards.
