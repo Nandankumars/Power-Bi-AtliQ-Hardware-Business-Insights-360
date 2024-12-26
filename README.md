@@ -13,6 +13,16 @@
 
 **6.** Business Terms Learned
 
+## Project Overview:
+
+AltiQ Hardware is a fast-growing global company, specializes in selling computers and accessories through three primary channels: retailers, direct sales and distributors. Despite its rapid growth, the company encountered unexpected losses after opening a new store in America. These challenges were initially identified through surveys, intuition, and basic Excel analysis.
+
+With competitors leveraging advanced analytics teams, AltiQ Hardware recognized the need to build robust analytics capabilities to remain competitive in the industry.
+
+To gain an edge and embrace data-driven decision-making, AltiQ Hardware initiated the implementation of Power BI for analytics. The goal of this project was to equip stakeholders with actionable insights across finance, sales, marketing, supply chain functions, enabling informed decision-making at every level.
+
+I contributed to this transformative project by applying skills gained from the Codebasics Power BI Course, ensuring a structured approach to developing impactful dashboards and reports.
+
 Live Dashboard link - [Click Here](https://app.powerbi.com/view?r=eyJrIjoiOWM2YWQyMjYtYzcxMS00ZDFlLThkOTgtZTk0Njc2MzQyNDYxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Technologies and Techniques Used in Business Intelligence Dashboard:
