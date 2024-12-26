@@ -4,8 +4,8 @@
 **1.** Project Overview 
 
 **2.** Datasets
-**3.**Power BI Dashboard Overview
-**4.**Power BI Techniques Learned
+**3.** Power BI Dashboard Overview
+**4.** Power BI Techniques Learned
 **5.**Tools Used
 **6.**Business Terms Learned
 
